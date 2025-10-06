@@ -4,7 +4,7 @@
 
 You can explore the live, interactive version of this Power BI dashboard hosted on the Power BI Service:
 
-🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiZWY5YmJmMjItZTE2Zi00YjdmLThiMDAtZWE3NTU3YTk5MjJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiYTAxNGE4YjgtNTI2Mi00ZGJiLWIzMWEtMzZjNzc5OGM1ZmFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 *(Best viewed on desktop in full-screen mode)*
 
 ---
